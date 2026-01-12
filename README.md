@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Javier
+<h1>👋 ¡Hola! Soy Javier</h1>
 <div>
 Desarrollador Web Junior | Estudiante FP DAW | Bootcamp Factoría F5<br>
 📍 España | 💪 Mentalidad gym aplicada al código | 🌱 Aprendiendo y construyendo cada día<br>
@@ -8,7 +8,7 @@ Mostrar imagen <br>
 Mostrar imagen <br>
 </div>
 <hr style="border: 1px solid #333; margin: 30px 0;">
-🚀 Sobre Mí
+<h2></h2>🚀 Sobre Mí </h2><br>
 Desarrollador web junior en formación, estudiando FP Superior de DAW y el Bootcamp de Factoría F5.<br>
 Mi experiencia en el gym me ha enseñado que el código es como el entrenamiento: requiere constancia, paciencia y análisis. Cada bug es una oportunidad para mejorar, cada proyecto es una nueva repetición.
 
@@ -20,7 +20,13 @@ Mi experiencia en el gym me ha enseñado que el código es como el entrenamiento
 
 🛠️ Tech Stack
 Lenguajes y Tecnologías
-Mostrar imagen
+<br><img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/7ccbb42c-7f0c-4768-b4ca-17ea82d591a8" />
+<img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/63500050-fd3b-40ee-bde6-916bc017c301" />
+<img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/d3ab4160-86bd-48bd-9e84-46796512c144" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/85ea8ac4-e588-471c-b909-b76d6e12c859" />
+<img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/0f68ad10-5a6d-4950-934d-ac71994c8dd8" />
+
+
 Mostrar imagen
 Mostrar imagen
 Herramientas
@@ -78,5 +84,6 @@ Mostrar imagen
 💭 Motivación del día
 "El código, como el entrenamiento, mejora con la práctica constante"
 Mostrar imagen
+ <br>
 ⭐️ Si te gusta mi trabajo, no olvides dar star a mis repositorios
 </div>
