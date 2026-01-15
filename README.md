@@ -1,16 +1,13 @@
 <h1>👋 ¡Hola! Soy Javier</h1>
 <div>
-Desarrollador Web Junior | Estudiante FP DAW | Bootcamp Factoría F5<br>
-📍 España | 💪 Mentalidad gym aplicada al código | 🌱 Aprendiendo y construyendo cada día<br>
- 
-Mostrar imagen <br>
-Mostrar imagen <br>
-Mostrar imagen <br>
+Desarrollador Web Junior en formación | Estudiante FP DAW | Bootcamp Factoría F5<br>
+📍 España | 💪 Mentalidad gym aplicada al código | 🌱 Actualmente creciendo en Factoría F5 Bootcamp y FP DAW<br>
+
 </div>
 <hr style="border: 1px solid #333; margin: 30px 0;">
 <h2></h2>🚀 Sobre Mí </h2><br>
-Desarrollador web junior en formación, estudiando FP Superior de DAW y el Bootcamp de Factoría F5.<br>
-Mi experiencia en el gym me ha enseñado que el código es como el entrenamiento: requiere constancia, paciencia y análisis. Cada bug es una oportunidad para mejorar, cada proyecto es una nueva repetición.
+Desarrollador web junior en formación, actualmente estudiando FP Superior de DAW y el Bootcamp de Factoría F5.<br>
+Mi experiencia en el gym ha moldeado mi forma de abordar el código como un entrenamiento: requiere de constancia, paciencia, análisis, curiosidad y aprendizaje continuo. Cada bug es una oportunidad para mejorar, cada proyecto es una nueva repetición.
 
 🔨 Construyendo proyectos reales desde cero <br>
 📚 Aprendiendo haciendo: rompo, arreglo y entiendo<br>
@@ -18,7 +15,7 @@ Mi experiencia en el gym me ha enseñado que el código es como el entrenamiento
 🤝 Buscando mi primera oportunidad profesional<br>
 <hr style="border: 1px solid #333; margin: 30px 0;">
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 Lenguajes y Tecnologías
 <br><img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/7ccbb42c-7f0c-4768-b4ca-17ea82d591a8" />
 <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/63500050-fd3b-40ee-bde6-916bc017c301" />
@@ -41,32 +38,24 @@ Git workflows colaborativos
 Debugging y refactorización de código
 
 <hr style="border: 1px solid #333; margin: 30px 0;">
-📂 Proyectos Destacados
 
-🚧 En construcción - Próximamente añadiré mis mejores proyectos del bootcamp
-
-<!-- Cuando tengas proyectos, usa este formato:
-
-### 🎮 [Nombre del Proyecto](enlace-github)
-**Stack:** HTML, CSS, JavaScript  
-Breve descripción del proyecto y qué problema resuelve.  
-🔗 [Ver Demo](enlace-github-pages) | 📝 [Código](enlace-repo)
-
--->
 
 💪 Mi Mentalidad de Desarrollador<br>
+
 Del gym al código, aplico los mismos principios:<br>
 🎯 Enfoque y persistencia     → Resolver problemas complejos <br>
 🧠 Pensamiento estratégico    → Planificar antes de codificar  <br>
 🔁 Aprender de los errores    → Debugging y mejora continua <br>
 🤝 Trabajo en equipo          → Git colaborativo y code reviews <br>
  📈 Progreso incremental       → Commits pequeños y constantes <br>
-
+<hr style="border: 1px solid #333; margin: 30px 0;">
 📊 GitHub Stats
 <div align="center">
-Mostrar imagen 
-Mostrar imagen 
-Mostrar imagen 
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javiertunsi7&theme=tokyonight)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javiertunsi7&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javiertunsi7&theme=tokyonight)
 </div>
 <hr style="border: 1px solid #333; margin: 30px 0;">
 🎯 Qué Busco <br>
@@ -76,9 +65,11 @@ Mostrar imagen
 <hr style="border: 1px solid #333; margin: 30px 0;">
 📫 Contacto<br>
 ¿Tienes un proyecto interesante o una oportunidad? ¡Hablemos!<br>
-📧 Email: javiertunsi7@gmail.com <br>
-💼 LinkedIn: Javier Galvañ Navarro<br>
-🐙 GitHub: github.com/javiertunsi7<br>
+
+📧 Email: [javiertunsi7@gmail.com](mailto:javiertunsi7@gmail.com) <br>
+💼 LinkedIn: [Javier Galvañ Navarro](https://www.linkedin.com/in/javier-galva%C3%B1-navarro-474a9036b/) <br>
+🐙 GitHub: (https://github.com/javiertunsi7)<br>
+
 <hr style="border: 1px solid #333; margin: 30px 0;">
 <div align="center">
 💭 Motivación del día
