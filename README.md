@@ -24,12 +24,7 @@ Lenguajes y Tecnologías
 <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/0f68ad10-5a6d-4950-934d-ac71994c8dd8" />
 
 
-Mostrar imagen
-Mostrar imagen
-Herramientas
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+
 🌱 Actualmente aprendiendo
 
 JavaScript (ES6+) en profundidad
