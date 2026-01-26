@@ -69,7 +69,7 @@ Del gym al código, aplico los mismos principios:<br>
 <div align="center">
 💭 Motivación del día
 "El código, como el entrenamiento, mejora con la práctica constante"
-Mostrar imagen
+
  <br>
 ⭐️ Si te gusta mi trabajo, no olvides dar star a mis repositorios
 </div>
